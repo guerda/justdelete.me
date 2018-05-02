@@ -4445,6 +4445,16 @@
     },
 
     {
+        "name": "Sixt myDriver",
+        "url": "https://www.mydriver.com/de/contact"
+        "difficulty": "medium",
+        "notes": "Call support to cancel your account",
+        "domains": [
+            "mydriver.com
+        ]
+    },
+    
+    {
         "name": "Skoob",
         "url": "http://www.skoob.com.br/usuario/excluir/",
         "difficulty": "easy",
